@@ -1,16 +1,14 @@
 Control de Velocidad para Escobas Voladoras
+
 Descripción:
 Este proyecto verifica si una escoba voladora excede un límite de velocidad. Compara la velocidad actual (en m/s) con un límite (en km/h) y muestra si está dentro del límite, si hay una advertencia o si se aplica una multa. Está implementado en C++ y Python.
 
-Cómo Usar:
-Requisitos
+Requisitos:
 C++: Necesitas g++ (macOS/Linux) o MinGW (Windows).
 
 Python: Necesitas Python instalado (versión 3.x recomendada).
 
-Pasos
-Descarga el proyecto.
-
+Como funciona?:
 Ingresa la velocidad de la escoba y el límite de velocidad cuando se te solicite.
 
 Dónde Obtener Ayuda:
