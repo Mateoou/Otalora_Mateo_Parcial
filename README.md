@@ -26,7 +26,8 @@ Desarrollador
   Nombre:Mateo Otálora Urrego
 Correo:Mateo.otalora01@usa.edu.co
 
-Bugs Conocidos
+Bugs Conocidos:
+
 No se valida si la entrada es numérica.
 
 Si encuentras un bug, contactese via correo.
