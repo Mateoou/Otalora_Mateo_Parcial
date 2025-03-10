@@ -1,1 +1,1 @@
-# Parcial-Regulaci-n-de-Escobas-Voladoras-en-Hogwarts
+# Parcial-Regulacion-de-Escobas-Voladoras-en-Hogwarts
